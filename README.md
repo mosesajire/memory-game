@@ -5,7 +5,7 @@ Welcome! Memory Game is a fascinating and interactive game which helps to enhanc
 # HOW TO GET STARTED
 - To play the game online, visit https://mosesajire.github.io/memory-game
 - To play the game offline, please follow the steps below:
-  * you need to download the repository to your local machine.
+  * Clone or download the repository to your computer.
   * Extract the downloaded file.
   * Open the index.html file with a browser.
   * Get ready to play.
